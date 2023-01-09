@@ -1,0 +1,39 @@
+.display-flex {
+  display: flex;
+}
+.span-logo {
+  color: #3b82f6;
+}
+
+.nav-bar {
+  align-items: center;
+  background-color: #1e1e30;
+  width: 100vw;
+  height: 80px;
+  justify-content: space-between;
+}
+
+.nav-links-container {
+  list-style: none;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  width: 200px;
+  justify-content: space-between;
+  margin-right: 150px;
+}
+
+.logo {
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 20px;
+  color: #f8fafc;
+  margin-left: 150px;
+}
+
+.link-style {
+  text-decoration: none;
+  color: #f8fafc;
+  cursor: pointer;
+}
